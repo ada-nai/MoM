@@ -11,8 +11,8 @@ Whether or not you are acquainted with OOP, this assignment should help you refr
 ###  Building Rational-ly
 >  In this assignment, we will work on the Rational class we used in the session. You might have to rework on the base structure and build on it. 
 
-- There are two files for this assignment:
-    i. RationalNumbers.py (You have to complete the code in this file)
+- There are two files for this assignment:  
+    i. RationalNumbers.py (You have to complete the code in this file)  
     ii. TestCases.py (You **do not** have to work on this file. This file contains a few test-cases to check if your code works well)
 - Use the `RationalNumbers.py` file to complete the code
 
